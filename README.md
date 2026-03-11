@@ -2,7 +2,8 @@
 
 > PowerApps + SharePoint + Power Automate で構築した現場朝礼・TBM-KY記録の承認管理システム
 
-![demo](demo.gif)
+<!-- デモ動画 GIF をここに貼る -->
+<!-- ![demo](demo.gif) -->
 
 ---
 
